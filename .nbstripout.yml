@@ -1,0 +1,17 @@
+# .nbstripout.yml - Configuration file for nbstripout
+
+keep_output: false  # Set to true if you want to keep outputs
+
+strip_metadata:
+  - kernelspec  # Kernel information
+  - language_info  # Language information
+  - widgets  # Widget state
+  - execution  # Execution timing
+  - toc  # Table of contents
+  - varInspector  # Variable inspector
+  - cell.metadata.ExecuteTime  # Cell execution time
+
+# You can keep certain other metadata fields if needed
+keep_metadata:
+  cell:
+    - tags  # Cell tags can be important for documentation
