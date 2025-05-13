@@ -1,4 +1,5 @@
-# ML_Project_Team_5
+# Dartmouth Machine Learning Project Team 5
+
 Project Objective: Predicting Bike Sharing Demand in Seoul
 Our project aims to develop and evaluate machine learning models to predict bike sharing demand in Seoul using the UCI dataset. By analyzing hourly bike rental patterns in relation to weather conditions and temporal factors, we seek to create accurate prediction models that can help optimize bike sharing operations.
 
